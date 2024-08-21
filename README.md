@@ -1,6 +1,6 @@
 # Laserants Github
 
-## Configuración Inicial y Uso de Git y GitHub
+## Initial Configuraction and Use of Git and GitHub
 
 ## Introducción
 
