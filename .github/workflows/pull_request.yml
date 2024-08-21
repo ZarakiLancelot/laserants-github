@@ -1,0 +1,19 @@
+name: Pull Request Check
+
+on:
+ pull_request:
+   branches: [ main ]
+   
+jobs:
+ check:
+   runs-on: ubuntu-latest
+   steps:
+     - uses: actions/checkout@v3
+     - name: Print environment variable
+       run: |
+        echo "VARIABLE_DE_ENTORNO=$ENV:ENV_TEST"
+     - name: Print environment secret
+       run: |
+        echo "SECRET=$GITHUB_SECRET:MY_SECRET"
+       env:
+         MY_SECRET: ${{ secrets.MY_SECRET }}
