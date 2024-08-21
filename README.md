@@ -2,7 +2,7 @@
 
 ## Initial Configuraction and Use of Git and GitHub
 
-## Introducción
+## Introduction
 
 Este documento te guiará a través de los pasos necesarios para configurar tu entorno de desarrollo utilizando Git y GitHub. Aprenderás a crear un repositorio público, conectar tu máquina local a través de SSH, realizar cambios y subirlos a GitHub, y opcionalmente, configurar una acción de GitHub para ejecutar tareas automatizadas al abrir una solicitud de extracción.
 
