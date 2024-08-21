@@ -39,7 +39,7 @@ Este documento te guiará a través de los pasos necesarios para configurar tu e
 ### Clonando el Repositorio Localmente
 
 1. ```bash
-   git clone <git@github.com>:tu_usuario_de_github/mi-primer-proyecto.git
+   git clone git@github.com:tu_usuario_de_github/mi-primer-proyecto.git
    ```
 
     * Reemplaza ```tu_usuario_de_github``` y ```mi-primer-proyecto``` con tus datos.
@@ -89,6 +89,7 @@ Este documento te guiará a través de los pasos necesarios para configurar tu e
 * Imprime una variable de entorno pública y una privada (creada en los secretos de GitHub).
 
   **¡Listo!** Ahora tienes una guía completa para comenzar a utilizar Git y GitHub para tus proyectos.
+  ![Github Action](image.png)
 
 ### Consejos adicionales
 
